@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Nitvalidador02", "Nitvalidador02\Nitvalidador02.vbproj", "{098EB4D3-96B2-4323-A5BC-E1941074016F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{098EB4D3-96B2-4323-A5BC-E1941074016F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{098EB4D3-96B2-4323-A5BC-E1941074016F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{098EB4D3-96B2-4323-A5BC-E1941074016F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{098EB4D3-96B2-4323-A5BC-E1941074016F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F92E8446-E466-41E9-AEC7-14BEAF57A582}
+	EndGlobalSection
+EndGlobal
