@@ -8,5 +8,8 @@ Válida si un NIT es válido y devuelve la dirección y nombre ligados al NIT.
 
 ![Screenshot](https://github.com/B3rert/ValidadorNit.NET/blob/master/Nitvalidador02/Nitvalidador02/preview/consult_nit.png?raw=true)
 
+## Demo
+Puede consultar una demostración del proyecto [aquí](http://www.b3rert.somee.com/)
+
 ## Notas
 * Se usa un servicio web de [infile](https://infile.com.gt/).
