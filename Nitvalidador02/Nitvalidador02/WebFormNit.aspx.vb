@@ -9,6 +9,8 @@ Public Class WebFormNit
 
     Protected Sub Button1_Click(sender As Object, e As EventArgs) Handles btnValidNit.Click
 
+        'Servicio: https://www.ingface.net:443/ServiciosIngface/ingfaceWsServices
+
         'Parametros que recibe el metodo
 
         'Usuario

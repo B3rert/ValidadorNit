@@ -157,6 +157,8 @@
       <Generator>WCF Proxy Generator</Generator>
       <LastGenOutput>Reference.vb</LastGenOutput>
     </None>
+    <Content Include="preview\add_nit.png" />
+    <Content Include="preview\consult_nit.png" />
     <Content Include="Web.config" />
     <Content Include="WebFormNit.aspx" />
   </ItemGroup>
